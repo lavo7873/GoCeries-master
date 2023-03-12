@@ -1,4 +1,4 @@
-@import url("typography.css");
+@import url("./typography.css");
 
 
 
@@ -151,7 +151,8 @@ p {
 /* --------------- Header ----------------- */
 
 .header {
-    background-image: url("/goceries/images/market.jpg");
+    background-image: url("/images/market.jpg");
+    /* background-image: url("/goceries/images/market.jpg"); */
     /* background-color: rgb(114, 245, 232); */
 
 }
