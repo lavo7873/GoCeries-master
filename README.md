@@ -1,14 +1,14 @@
-# Go-Ceries (CMPE 131 Group 5) 
+# Go-Ceries (CMPE 131 Group 3) 
 This is a full-stack eCommerce web application for our CMPE 131 software engineering group project. 
 
 Group Members: 
-1. Li Jie Leow
-2. Tam Nguyen
-3. Vu Le
-4. Thong Nguyen
-5. Clarence Javier
-6. Shunyi Liu
-7. Michelle Lu
+1. Alyssa
+2. Hemanth Jammalamadaka
+3. Ayman
+4. Lam Vong
+5. Kyle
+6. Edward Vong
+7. Tahmid
 
 In order to run our website correctly, user will have to have XAMPP installed in their computer.
 

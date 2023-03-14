@@ -30,7 +30,7 @@
                 </div>
             </div>
             <hr>
-            <p class = "copyright">Copyright 2020 Go!Ceries </p>
+            <p class = "copyright">Copyright 2022 Go!Ceries </p>
         </div>
     </div>
 
